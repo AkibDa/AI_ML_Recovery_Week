@@ -31,3 +31,6 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 - Day 6: Make the repo portfolio-worthy with deployment
 
 ---
+
+![Status](https://img.shields.io/badge/Recovery%20Week-In%20Progress-yellow)
+
