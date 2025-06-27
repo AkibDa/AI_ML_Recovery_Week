@@ -5,22 +5,22 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 ## Day 1
 
 * Tool's I have used so far in my ML journey :
-  * Pandas ,
-  * Numpy ,
-  * Matplotlib ,
-  * Scikit-Learn ,
-  * Tensorflow ,
-  * Streamlit ,
-  * Flask 
+  - Pandas ,
+  - Numpy ,
+  - Matplotlib ,
+  - Scikit-Learn ,
+  - Tensorflow ,
+  - Streamlit ,
+  - Flask 
 * Concepts I have touched in Machine learning :
-  * Regression ,
-  * Classification ,
-  * Decision Tree ,
-  * Random Forest 
+  - Regression ,
+  - Classification ,
+  - Decision Tree ,
+  - Random Forest 
 * Projects I have made so far :
-  * DiagnoWise ,
-  * DietForage ,
-  * Suggestify ,
+  - [DiagnoWise](https://github.com/AkibDa/DiagnoWise) - Smart Disease Predicting App
+  - [DietForge](https://github.com/AkibDa/DietForge) – Diet planning web app using Flask
+  - [Suggestify](https://github.com/AkibDa/Suggestify) – TV show recommender with Gemini API
 
 ---
 
