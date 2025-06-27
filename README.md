@@ -13,14 +13,14 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
   * Streamlit ,
   * Flask 
 * Concepts I have touched in Machine learning :
- * Regression ,
- * Classification ,
- * Decision Tree ,
- * Random Forest 
+  * Regression ,
+  * Classification ,
+  * Decision Tree ,
+  * Random Forest 
 * Projects I have made so far :
- * DiagnoWise ,
- * DietForage ,
- * Suggestify ,
+  * DiagnoWise ,
+  * DietForage ,
+  * Suggestify ,
 
 ---
 
