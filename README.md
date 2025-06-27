@@ -5,18 +5,18 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 ## Day 1
 
 * Tool's I have used so far in my ML journey :
-  - Pandas - A library written for the Python programming language for data manipulation and analysis.
-  - Numpy - A fundamental library for Python numerical computing.
-  - Matplotlib - A open-source plotting library for Python.
-  - Scikit-Learn - An open-source machine learning library for the Python programming language.
-  - Tensorflow - An open-source framework for machine learning and artificial intelligence.
-  - Streamlit - A open-source framework to rapidly build and share beautiful machine learning and data science web apps.
+  - **Pandas** - A library written for the Python programming language for data manipulation and analysis.
+  - **Numpy** - A fundamental library for Python numerical computing.
+  - **Matplotlib** - A open-source plotting library for Python.
+  - **Scikit-Learn** - An open-source machine learning library for the Python programming language.
+  - **Tensorflow** - An open-source framework for machine learning and artificial intelligence.
+  - **Streamlit** - A open-source framework to rapidly build and share beautiful machine learning and data science web apps.
     
 * Concepts I have touched in Machine learning :
-  - Regression - A technique used to capture the relationships between independent and dependent variables.
-  - Classification - A supervised learning technique where models learn from labeled datasets to assign new data points to predefined categories or classes.
-  - Decision Tree - A type of supervised machine learning algorithm used for classification and regression tasks.
-  - Random Forest - A machine learning algorithm that combines multiple decision trees to create a more accurate and stable prediction.
+  - *Regression* - A technique used to capture the relationships between independent and dependent variables.
+  - *Classification* - A supervised learning technique where models learn from labeled datasets to assign new data points to predefined categories or classes.
+  - *Decision Tree* - A type of supervised machine learning algorithm used for classification and regression tasks.
+  - *Random Forest* - A machine learning algorithm that combines multiple decision trees to create a more accurate and stable prediction.
     
 * Projects I have made so far :
   - [DiagnoWise](https://github.com/AkibDa/DiagnoWise) - Smart Disease Predicting App
@@ -32,5 +32,9 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 
 ---
 
-![Status](https://img.shields.io/badge/Recovery%20Week-In%20Progress-yellow)
+> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
 
+---
+
+![Status](https://img.shields.io/badge/Recovery%20Week-In%20Progress-yellow)
+![Recovery Week](https://img.shields.io/badge/Mindset-Rebuilding-blue)
