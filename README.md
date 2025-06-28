@@ -29,12 +29,14 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 
 **Goal**: *Reinforce fundamentals through tiny wins.*
 
-**Regression_Model.py** : *A Linear Regression model trained on Iris dataset*
+### ✅ Linear Regression
+Implemented a simple linear regression model using Scikit-learn on a synthetic dataset. Visualized best-fit line and compared predictions with actual values.
 
-**Classification_Model.py** : *A Decision Tree Classifier trained on Iris dataset*
+### ✅ Decision Tree Classifier
+Used the Iris dataset to train a Decision Tree model. Visualized predictions and explored accuracy on test data.
 
-**Clustering_Model.py** : *KMeans Clustering on random 2D points*
-
+### ✅ KMeans Clustering
+Applied KMeans to random 2D data. Visualized cluster centers and grouped data points.
 
 ---
 
