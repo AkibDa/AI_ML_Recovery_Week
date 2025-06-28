@@ -25,8 +25,20 @@ This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe m
 
 ---
 
+## Day 2
+
+**Goal**: *Reinforce fundamentals through tiny wins.*
+
+**Regression_Model.py** : *A Linear Regression model trained on Iris dataset*
+
+**Classification_Model.py** : *A Decision Tree Classifier trained on Iris dataset*
+
+**Clustering_Model.py** : *KMeans Clustering on random 2D points*
+
+
+---
+
 ## 🔮 What’s Next
-- Day 2: Mini ML projects (Linear Regression, Classification, Clustering)
 - Day 3: Build an end-to-end project using Streamlit
 - Day 6: Make the repo portfolio-worthy with deployment
 
