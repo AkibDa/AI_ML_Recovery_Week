@@ -1,4 +1,8 @@
 # AI_ML_Recovery_Week
+
+![Status](https://img.shields.io/badge/Recovery%20Week-In%20Progress-yellow)
+![Recovery Week](https://img.shields.io/badge/Mindset-Rebuilding-blue)
+
 This is 1-week AI/ML recovery plan — designed to rebuild confidence, reframe my learning, and help me feel the progress I'm making again.
 
 ---
@@ -66,5 +70,3 @@ A simple Streamlit web app that classifies the sentiment of a given sentence as 
 
 ---
 
-![Status](https://img.shields.io/badge/Recovery%20Week-In%20Progress-yellow)
-![Recovery Week](https://img.shields.io/badge/Mindset-Rebuilding-blue)
