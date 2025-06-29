@@ -40,8 +40,24 @@ Applied KMeans to random 2D data. Visualized cluster centers and grouped data po
 
 ---
 
+## Day 3 - Sentiment Analyzer 💬🔍
+
+A simple Streamlit web app that classifies the sentiment of a given sentence as **Positive**, **Negative**, or **Neutral** using a Logistic Regression model trained on textual data.
+
+### 🚀 Features
+- Real-time sentiment prediction
+- TF-IDF vectorization for text processing
+- Emoji-based feedback
+- Streamlit UI for easy interaction
+
+### 🛠️ Tech Stack
+- Python, Scikit-learn
+- TF-IDF, Logistic Regression
+- Streamlit
+
+---
+
 ## 🔮 What’s Next
-- Day 3: Build an end-to-end project using Streamlit
 - Day 6: Make the repo portfolio-worthy with deployment
 
 ---
