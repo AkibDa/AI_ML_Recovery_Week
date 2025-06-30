@@ -1,7 +1,7 @@
 import joblib
 
-model = joblib.load('model/sentiment_model.pkl')
-vectorizer = joblib.load('model/vectorizer.pkl')
+model = joblib.load('./model/sentiment_model.pkl')
+vectorizer = joblib.load('./model/vectorizer.pkl')
 
 def predict_text(text):
     vector = vectorizer.transform([text])
