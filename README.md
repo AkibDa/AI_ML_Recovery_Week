@@ -61,6 +61,14 @@ A simple Streamlit web app that classifies the sentiment of a given sentence as 
 
 ---
 
+## 🔍 Day 4 – Visualizing Models
+
+- Visualized decision boundary of logistic regression
+- Plotted top 10 most influential words in sentiment classification
+- Understood how certain features drive predictions
+
+---
+
 ## 🔮 What’s Next
 - Day 6: Make the repo portfolio-worthy with deployment
 
