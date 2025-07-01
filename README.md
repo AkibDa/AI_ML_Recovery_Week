@@ -69,6 +69,18 @@ A simple Streamlit web app that classifies the sentiment of a given sentence as 
 
 ---
 
+## 🚀 Day 5 – ML Pipeline & App Optimization
+
+- ✅ Created a complete ML pipeline using `sklearn.pipeline.Pipeline`
+- ✅ Combined preprocessing (TF-IDF) and model (Logistic Regression) in one file
+- ✅ Refactored Streamlit app to use the pipeline directly
+- ✅ Saved and loaded the pipeline using `pickle` for deployment
+- ✅ Improved app performance by reducing redundancy
+
+🔗 [Check out the pipeline code](Day_5/pipeline.ipynb)
+
+---
+
 ## 🔮 What’s Next
 - Day 6: Make the repo portfolio-worthy with deployment
 
